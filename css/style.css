@@ -1,0 +1,25 @@
+
+img {
+  float: left;
+}
+
+}
+.wrapper {
+  width: 980px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: red;
+}
+.bold {
+  color: red;
+}
+
+.hi {
+  color: blue;
+}
